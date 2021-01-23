@@ -1,0 +1,2 @@
+# MyNotes
+Aplikasi pencatatan notes
